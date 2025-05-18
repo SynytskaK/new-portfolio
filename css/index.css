@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Syne&display=swap');
+@import url(main-page.css);
+@import url(about.css);
+@import url(projects.css);
+@import url(contact.css);
+
+@font-face {
+    font-family: "Mier A";
+    src: url("../fonts/MierA-Regular.ttf");
+}
+
+@font-face {
+    font-family: "Roboto Mono";
+    src: url("../fonts/RobotoMono-Regular.ttf");
+}
+
